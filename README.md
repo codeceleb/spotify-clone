@@ -1,31 +1,14 @@
 # spotify-clone
-<a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/android-spotify-clone/images/Spotify_Clone.png' /></a>
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-<h1><a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'>Audio Streaming on Android</a></h1>
-<h3><a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'>Watch the app demo and see screen shots</a>.</h3>
+# LAB | HTML & CSS - Spotify Clone
 
-<p>In this course I teach you the current best practice way to build an audio streaming application on android. To make it more interesting, I designed it to look similar to the popular music streaming app called Spotify.<a href="https://codingwithmitch.com/courses/android-audio-streaming/"> View screen shots</a>.</p>
+## Introduction
 
-<p>I use the ExoPlayer library for streaming the audio files. The audio files are located online in a Firebase Firestore database. </p>
+Everybody likes music, right? Odds are, if you do, you have heard of **Spotify**.
 
-<p>Here's what you will see in the course:</p>
-<ul>
-<li><strong>Every line of code is written and explained on video</strong></li>
-<li>ExoPlayer (same media library used by YouTube in the mobile app)</li>
-<li>Streaming audio files from the internet (Firestore)</li>
-<li>Playlists</li>
-<li>Effective fragment management</li>
-<li>AsyncTasks</li>
-<li>SharedPreferences</li>
-<li>Effective communication with interfaces</li>
-<li>Services (a class specifically built to stream media files)</li>
-<li>Background Services that run forever</li>
-<li>Notifications</li>
-<li>Controlling playback through a notification</li>
-<li>Notifications and the lock screen</li>
-<li>Broadcast Receivers</li>
-<li>Glide library to download bitmaps</li>
-<li>RecyclerViews</li>
-<li>And much more...</li>
-</ul>
+In this lab, we will be building a simplified version of the Spotify landing page:
+
+![Spotify image](https://i.imgur.com/xVD0bm6.jpg)
+
 <br>
