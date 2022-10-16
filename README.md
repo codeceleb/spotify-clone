@@ -1,6 +1,6 @@
 # spotify-clone
 
-# LAB | HTML, CSS & Javascript - Spotify Clone
+# HTML, CSS & Javascript - Spotify Clone
 
 ## Introduction
 
