@@ -6,7 +6,7 @@
 
 Everybody likes music, right? Odds are, if you do, you have heard of **Spotify**.
 
-In this lab, we will be building a simplified version of the Spotify landing page:
+I built a simplified version of the Spotify landing page:
 
 ![Spotify image](https://i.imgur.com/xVD0bm6.jpg)
 
